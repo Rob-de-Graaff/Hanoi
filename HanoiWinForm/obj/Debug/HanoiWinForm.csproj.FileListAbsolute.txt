@@ -1,0 +1,10 @@
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 10 Torens van Hanoi\HanoiWinForm\HanoiWinForm\bin\Debug\HanoiWinForm.exe.config
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 10 Torens van Hanoi\HanoiWinForm\HanoiWinForm\bin\Debug\HanoiWinForm.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 10 Torens van Hanoi\HanoiWinForm\HanoiWinForm\bin\Debug\HanoiWinForm.pdb
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 10 Torens van Hanoi\HanoiWinForm\HanoiWinForm\obj\Debug\HanoiWinForm.csprojAssemblyReference.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 10 Torens van Hanoi\HanoiWinForm\HanoiWinForm\obj\Debug\HanoiWinForm.Form1.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 10 Torens van Hanoi\HanoiWinForm\HanoiWinForm\obj\Debug\HanoiWinForm.Properties.Resources.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 10 Torens van Hanoi\HanoiWinForm\HanoiWinForm\obj\Debug\HanoiWinForm.csproj.GenerateResource.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 10 Torens van Hanoi\HanoiWinForm\HanoiWinForm\obj\Debug\HanoiWinForm.csproj.CoreCompileInputs.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 10 Torens van Hanoi\HanoiWinForm\HanoiWinForm\obj\Debug\HanoiWinForm.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 10 Torens van Hanoi\HanoiWinForm\HanoiWinForm\obj\Debug\HanoiWinForm.pdb
